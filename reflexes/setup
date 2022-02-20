@@ -1,0 +1,5 @@
+to run reflexes_ros.py following setup is required:
+Ubuntu 20.04
+ROS Noetic
+osrf's simcity setup
+tensorflow==1.15
